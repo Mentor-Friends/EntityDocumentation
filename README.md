@@ -7,7 +7,7 @@ A brief description of ENTITY.
 An entity can refer to any identifiable object or thing that exists. It could be a person, place, thing, or concept. The term is often used in a broad, abstract sense to describe any discrete and separately identifiable unit.
 
 In the context of databases and data modeling, an entity refers to a distinct object, concept, or thing about which data can be stored. It is often represented as a table in a relational database. Each row in the table represents an instance of that entity, and each column represents an attribute or property of the entity.
-C:\Users\MENTOR FRIENDS\Pictures\ScreenshotsC
+C:\Users\MENTOR FRIENDS\Pictures\Screenshots
 
 
 # TYPES OF ENTITY.
