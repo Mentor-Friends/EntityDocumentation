@@ -30,6 +30,14 @@ In the context of databases and data modeling, an entity refers to a distinct ob
 
 **PersonID (Primary Key):** A unique identifier for each person.
 
+Primary Key:
+
+A primary key is a key attribute that uniquely identifies each record in a database table.
+It must contain unique values, and it cannot have NULL values.
+Every table should have a primary key, and it is used to establish relationships between tables.
+
+
+
 **FirstName:** The first name of the person.
 
 **LastName:** The last name or surname of the person.
